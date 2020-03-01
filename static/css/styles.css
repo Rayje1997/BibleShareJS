@@ -1,0 +1,31 @@
+body{
+	background-color: gray;
+}
+
+/*title header*/
+#tHeader {
+        position: relative;
+        text-align: center;
+}
+
+
+#bibleWindow{
+	position: relative;
+	top: 50px;
+	float: left;
+	max-width: 50%;
+	min-width: 48%;
+	height: 80%;
+	border: 2px solid black;
+}
+
+#noteWindow{
+	position: relative;
+	top: 50px;
+	float: right;
+	max-width: 50%;
+	min-width: 48%;
+	height: 80%;
+	border: 2px solid black;
+}
+
